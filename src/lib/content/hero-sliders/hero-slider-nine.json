@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "AeroTrek",
+    "subtitle": "Odyssey<br>",
+    "image": "/assets/img/slider/F73A3642.jpg",
+    "url": "/shop"
+  },
+  {
+    "id": 2,
+    "title": "AeroTrek",
+    "subtitle": "Journey",
+    "image": "/assets/img/slider/IMG_8521.jpg",
+    "url": "/shop"
+  },
+  {
+    "id": 3,
+    "title": "AeroTrek",
+    "subtitle": "Horizon",
+    "image": "/assets/img/slider/F73A7169.jpg",
+    "url": "/shop"
+  }
+]
